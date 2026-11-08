@@ -42,11 +42,8 @@ st.markdown("""
 # ----------------------------------------------------------------------------
 MODELS = [
     "meta-llama/Llama-3.1-8B-Instruct",
-    "Qwen/Qwen2.5-72B-Instruct",
-    "mistralai/Mistral-7B-Instruct-v0.3",
-    "google/gemma-2-9b-it",
-    "HuggingFaceH4/zephyr-7b-beta",
 ]
+
 
 M_CHAT = "💬 Chat"
 M_RES = "🌐 Web Research"
