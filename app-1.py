@@ -42,7 +42,7 @@ st.markdown("""
 # ----------------------------------------------------------------------------
 # Optional fallback token that survives browser refreshes. WARNING: anyone who can read your code can read it,
 # so only fill this in on a PRIVATE Space. A Space secret named HF_TOKEN is the safer option.
-DEFAULT_HF_TOKEN = ""
+DEFAULT_HF_TOKEN ="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"
 
 # Chat-capable models only (order = fallback order). Llama is gated: accept its license on huggingface.co first.
 MODELS = [
